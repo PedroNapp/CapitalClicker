@@ -1,5 +1,9 @@
 # Capital Clicker
 
+## Descrição
+
+Este jogo foi produzido durante as aulas da disciplina de Engenharia de Software como parte de uma atividade prática de desenvolvimento de software, com o objetivo de aplicar conceitos de organização de projetos, lógica de programação e simulação de sistemas.
+
 ---
 
 ## Sobre o Projeto
