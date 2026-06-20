@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: d73eed7a76d9ea94dbda9f32465e03f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2348080276300852680
+    second: Descansos_0
+  - first:
+      213: -2465337117145926952
+    second: Descansos_1
+  - first:
+      213: -2485202961332034768
+    second: Descansos_2
+  - first:
+      213: -7908796031797709258
+    second: Descansos_3
+  - first:
+      213: 3654850637124414023
+    second: Descansos_4
+  - first:
+      213: 1231356596216377566
+    second: Descansos_5
+  - first:
+      213: -8647428918464443710
+    second: Descansos_6
+  - first:
+      213: 8034675516860137127
+    second: Descansos_7
+  - first:
+      213: 6365678590133596188
+    second: Descansos_8
+  - first:
+      213: 1822171469609901588
+    second: Descansos_9
+  - first:
+      213: -5441272234984453697
+    second: Descansos_10
+  - first:
+      213: -4660304160919463551
+    second: Descansos_11
+  - first:
+      213: 2040167758236025149
+    second: Descansos_12
+  - first:
+      213: -3442434304808564856
+    second: Descansos_13
+  - first:
+      213: 7345224565401986096
+    second: Descansos_14
+  - first:
+      213: 574858411182398033
+    second: Descansos_15
+  - first:
+      213: 3453468697961341803
+    second: Descansos_16
+  - first:
+      213: -5663060624304901175
+    second: Descansos_17
+  - first:
+      213: 7353970706036221009
+    second: Descansos_18
+  - first:
+      213: 8792444334030113715
+    second: Descansos_19
+  - first:
+      213: 1282979730289864573
+    second: Descansos_20
+  - first:
+      213: 4566238799271967472
+    second: Descansos_21
+  - first:
+      213: 2553976328846701299
+    second: Descansos_22
+  - first:
+      213: 1677573857402424285
+    second: Descansos_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Descansos_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 349
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d27ee034fc59cdd0800000000000000
+      internalID: -2465337117145926952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Descansos_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 464
+        width: 374
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034224853da7fe560800000000000000
+      internalID: 7345224565401986096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Descansos_21
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 34
+        width: 386
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa3636bef98e5f30800000000000000
+      internalID: 4566238799271967472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b7cfa92ab06265c43bd5cecc4379a8a2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Descansos_0: -2348080276300852680
+      Descansos_1: -2465337117145926952
+      Descansos_10: -5441272234984453697
+      Descansos_11: -4660304160919463551
+      Descansos_12: 2040167758236025149
+      Descansos_13: -3442434304808564856
+      Descansos_14: 7345224565401986096
+      Descansos_15: 574858411182398033
+      Descansos_16: 3453468697961341803
+      Descansos_17: -5663060624304901175
+      Descansos_18: 7353970706036221009
+      Descansos_19: 8792444334030113715
+      Descansos_2: -2485202961332034768
+      Descansos_20: 1282979730289864573
+      Descansos_21: 4566238799271967472
+      Descansos_22: 2553976328846701299
+      Descansos_23: 1677573857402424285
+      Descansos_3: -7908796031797709258
+      Descansos_4: 3654850637124414023
+      Descansos_5: 1231356596216377566
+      Descansos_6: -8647428918464443710
+      Descansos_7: 8034675516860137127
+      Descansos_8: 6365678590133596188
+      Descansos_9: 1822171469609901588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
