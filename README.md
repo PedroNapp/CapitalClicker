@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este jogo foi produzido durante as aulas da disciplina de Engenharia de Software como parte de uma atividade prática de desenvolvimento de software, com o objetivo de aplicar conceitos de organização de projetos, lógica de programação e simulação de sistemas.
+Este jogo foi produzido durante as aulas da disciplina de Topicos Especiais em Tecnologia como parte de uma atividade prática de desenvolvimento de software, com o objetivo de aplicar conceitos de organização de projetos, lógica de programação e simulação de sistemas.
 
 ---
 
@@ -190,6 +190,13 @@ Eventos e resultados das ações do jogador são apresentados através de notifi
 - Unity;
 - C#;
 - Figma.
+- ChatGPT (apoio na geração de ideias e imagens do projeto)
+
+---
+
+## Recursos Visuais
+
+As imagens utilizadas no projeto foram criadas com auxílio de ferramentas de inteligência artificial, incluindo o ChatGPT, utilizado para apoio na geração de conceitos visuais e ideias para o design do jogo.
 
 ---
 
