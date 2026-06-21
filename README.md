@@ -211,7 +211,7 @@ https://www.figma.com/design/UKH8GUS22fTO1wjLcaaMn2/Pedrovisk---GDD
 ## Equipe
 
 - Lucas Cardoso Marinho;
-- Pedro arthur Souza Napp;
+- Pedro Arthur Souza Napp;
 - Barbara Serhena Mirando.
 
 ---
