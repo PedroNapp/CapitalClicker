@@ -1,5 +1,13 @@
 # Capital Clicker
 
+## Equipe 
+
+- Lucas Cardoso Marinho;
+- Pedro Arthur Souza Napp;
+- Barbara Serhena Mirando.
+
+---
+
 ## Descrição
 
 Este jogo foi produzido durante as aulas da disciplina de Topicos Especiais em Tecnologia como parte de uma atividade prática de desenvolvimento de software, com o objetivo de aplicar conceitos de organização de projetos, lógica de programação e simulação de sistemas.
@@ -200,18 +208,13 @@ As imagens utilizadas no projeto foram criadas com auxílio de ferramentas de in
 
 ---
 
-## Protótipo
+## Links Úteis
 
-Protótipo desenvolvido no Figma:
+### Versão drive zip
 
-https://www.figma.com/design/UKH8GUS22fTO1wjLcaaMn2/Pedrovisk---GDD
+- Versão atual (ZIP): https://drive.google.com/file/d/17H-EGXWXK2IOU5SkPY3NxCDb2xiza7_E/view?usp=sharing
 
----
+### Protótipo
 
-## Equipe
+- Figma: https://www.figma.com/design/UKH8GUS22fTO1wjLcaaMn2/Pedrovisk---GDD
 
-- Lucas Cardoso Marinho;
-- Pedro Arthur Souza Napp;
-- Barbara Serhena Mirando.
-
----
