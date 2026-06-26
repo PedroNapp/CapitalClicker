@@ -199,12 +199,15 @@ Eventos e resultados das ações do jogador são apresentados através de notifi
 - C#;
 - Figma.
 - ChatGPT (apoio na geração de ideias e imagens do projeto)
+- BeepBox (criação da música de fundo e efeitos sonoros).
 
 ---
 
-## Recursos Visuais
+## Recursos Visuais e Sonoros
 
 As imagens utilizadas no projeto foram criadas com auxílio de ferramentas de inteligência artificial, incluindo o ChatGPT, utilizado para apoio na geração de conceitos visuais e ideias para o design do jogo.
+
+Os efeitos sonoros dos botões e a música de fundo foram desenvolvidos utilizando o BeepBox, ferramenta voltada para composição de músicas em estilo retrô.
 
 ---
 
